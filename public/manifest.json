@@ -1,0 +1,8 @@
+{
+    "name": "BtcTurk Pager",
+    "api": "1.0.0",
+    "main": "code.js",
+    "editorType": ["figma"],
+    "ui": "index.html",
+    "id": "1243840737950472379"
+}
